@@ -1,7 +1,6 @@
 - Hi, I’m Gazal
-- I’m interested in Web Design and Development, Python, AI Development, Operating System
-- I’m currently learning Python
-- I’m looking to collaborate on AI Development
+- I’m currently learning Haskell
+- I’m looking to collaborate on Documentation
 - reach me - gazalthegirl@gmail.com
 
 <!---
